@@ -1,0 +1,21 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "Start HTML Template",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Andrew Ochych",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-kit": "^0.3.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify-es": "^2.0.0"
+  }
+}
